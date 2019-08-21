@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>E4727AC9-1D8D-4952-BB56-1777A25CDF68</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E4727AC9-1D8D-4952-BB56-1777A25CDF68.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nepali-riddles project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nepali-riddles</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug nepali-riddles</string>
+			<key>timeStartedRecording</key>
+			<real>587966500.97295904</real>
+			<key>timeStoppedRecording</key>
+			<real>587966523.00302303</real>
+			<key>title</key>
+			<string>Debug nepali-riddles</string>
+			<key>uniqueIdentifier</key>
+			<string>E4727AC9-1D8D-4952-BB56-1777A25CDF68</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

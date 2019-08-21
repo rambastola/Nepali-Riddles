@@ -1,0 +1,1 @@
+/Users/rambastola/Desktop/kivy-ios/nepali-riddles-ios/DerivedData/nepali-riddles/Build/Intermediates.noindex/ArchiveIntermediates/nepali-riddles/InstallationBuildProductsLocation/Applications/nepali-riddles.app
